@@ -1,3 +1,4 @@
 # final-project-Nawafalarfaj
 Hello everyone and welcome here.
-Linkedin is one of the most popular applications, if not the most famous in the field of recruitment, employees and companies. In this file, there is a project for a software engineering course that talks about LinkedIn and an idea to develop it.
+LinkedIn is one of the most famous, if not the most popular application in the field of recruiting, personnel and companies.
+In this file there is a project for a software engineering course that talks about LinkedIn and an idea to develop and improve it in terms of user experience and other aspects.
